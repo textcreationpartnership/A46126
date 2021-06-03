@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial account of the proceedings of the Common-Hall of the city of London, at Guild-Hall, June the 24th, 1682 for electing of sheriffs for the said city and county of Middlesex, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46126</idno><idno type="EEBO-CITATION">11849468</idno>
+  <idno type="VID">49893</idno>
+  <idno type="EEBO-PROQUEST">2240858014</idno>
+  
+            <idno type="STC">Wing I76</idno>
+            <idno type="STC">ESTC R15605</idno>
+            <idno type="OCLC">11849468</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49893)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial account of the proceedings of the Common-Hall of the city of London, at Guild-Hall, June the 24th, 1682 for electing of sheriffs for the said city and county of Middlesex, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Middlesex (England) --  Officials and employees.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49893:1"/>
+            <head>An Impartial Account of the Proceedings of the <hi>Common-Hall</hi> of the City of <hi>London,</hi> at <hi>Guild-Hall, June</hi> the 24th, 1682. For <hi>Electing</hi> of Sheriffs for the said City and County of <hi>Middlesex,</hi> &amp;c.</head>
+            <p>
+               <hi>THere having happened several</hi> unusual <hi>Practices in the Conduct of Affairs, touching the</hi> Election <hi>of</hi> SHERIFFS <hi>for the year ensuing, it may be very expedient for General Satisfaction, due Information of the Citizens of the true State of Things, and Check<g ref="char:EOLhyphen"/>ing False and Ʋncertain</hi> Reports, <hi>to give a plain and</hi> Impartial <hi>Account of the whole Affair.</hi>
+            </p>
+            <p n="1">I. AT the <hi>Bridge-House</hi> Feast, the 18th of <hi>May</hi> last, the Right Honourable the Lord Mayor was pleased to pass the Complement of DRINKING to <hi>Dudley North</hi> Esq; A Ceremony whereby the Person so <hi>drank to,</hi> has been look'd upon as put in <hi>Nomination,</hi> or to be in the Judgment of the <hi>Chair</hi> a very fit man to be one of the Sheriffs, if the Com<g ref="char:EOLhyphen"/>mon-Hall shall <hi>Elect</hi> him.</p>
+            <p n="2">II. Soon after, Mr. <hi>North,</hi> before he was chosen by the Common-Hall, and indeed a considerable time before the day of <hi>Election,</hi> meerly upon such my Lords Drinking to him, came to a Court of Alderman, and gave Bond to hold Sheriff.</p>
+            <p n="3">III. The Right Honourable the Lord Mayor the beginning of last week issues forth his Precept to the Respective <hi>Companies;</hi> but it ran in an unaccustomed form, as followeth:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order_for_shrieval_election">
+                        <head>By the Mayor.</head>
+                        <p>THese are to require you, That on <hi>Midsummer</hi>-day next, being the day appointed as well for <hi>Confirmation</hi> of the Person <hi>WHO HATH BEEN BY ME CHOSEN,</hi> according to the Ancient Custom and Constitution of this City, To be <hi>One</hi> of the Sheriffs of this City and County of <hi>Middlesex</hi> for the year ensuing; as for the <hi>Election</hi> of the other of the said Sheriffs, and other Officers; you cause the <hi>Livery</hi> of your Company to meet together at your <hi>Common-Hall</hi> early in the Morning, and from thence to come together decently and orderly in their Gowns to <hi>Guild-Hall,</hi> there to make the said Confirmation and Election.</p>
+                        <closer>
+                           <dateline>Given <date>the Nineteenth of <hi>June,</hi> 1682.</date>
+                           </dateline>
+                           <signed>JOHN MOOR.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This occasioned much discourse, and some distraction amongst the Companies; some issuing out their Summons to their Members, <hi>To meet and chuse Sheriffs, &amp;c.</hi> (as antiently) others (after this new mode) for <hi>Confirmation</hi> and <hi>Election;</hi> and some only, for <hi>Electing City-Officers.</hi>
+            </p>
+            <p n="4">IV. On <hi>Friday</hi> the 23d instant, the matter being taken into debate at the Court of Al<g ref="char:EOLhyphen"/>dermen, after some time it was desired, That Mr. <hi>Recorder</hi> would deliver his Sentiment; who in a Judicious Speech gave his opinion, That <hi>the Right of Election of Both the Sheriffs, lay in the Commonalty;</hi> And that the Sheriffs <hi>pro tempore</hi> were Judges of the <hi>Poll,</hi> if any were. And the whole Court acquiesced therein. Whereupon some <hi>Companies</hi> that had sent forth Summons for <hi>Confirmation</hi> and <hi>Election,</hi> awarded new ones for <hi>Election</hi> only.</p>
+            <p n="5">V. On Midsummer day (the Annual appointed time for Choice,) the <hi>Livery-men</hi> Assembled in Common-Hall very numerous. And after the Lord Mayor and Aldermen were come upon the Hustings, the Common Cryer made Proclamation and said to this Purpose, <hi>You Gentlemen of the Livery of London attend your Confirmation.</hi> Upon which the Common Hall vigorously interrupted, and Cry'd, <hi>No Confirmation! No Confirmation!</hi> and so continued urging their Right in that behalf near half an hour, not suffering him to go on. After which, Mr. Recorder stept upon the Hustings and made a <hi>Speech,</hi> wherein he set forth the Excellency of Government in general, and the happiness particularly of our <hi>own,</hi> and especially of this Great and Opulent <hi>City,</hi> more immediately as to their great priviledge of Chusing their <hi>own Sheriffs,</hi> Citing for the same the Grant in the Charter of King <hi>John, &amp;c.</hi>
+            </p>
+            <p n="6">VI. The Lord Mayor and Aldermen then withdrew, and Mr. Common Serjeant offering to speak, the Common-Hall Cry'd—<hi>Election! Election! And the work of the day!</hi> But the Sheriffs desiring their Patience, He went on, and spake a few Words, relating in general to the business of the Day.</p>
+            <p n="7">VII. The <hi>Hall</hi> then proceeded in the usual Antient Method, and the Contest about <hi>Confirmation</hi> being relinquisht, There were put in Nomination for Sheriffs, The before Named <hi>Dudly North, Thomas Papillion, John Dubois,</hi> and <hi>Ralph Box,</hi> Esquires.</p>
+            <p>Upon view of the Hands, The Election was declared to fall upon Mr. <hi>Papillion</hi> and Mr. <hi>Dubois,</hi> they having apparently the Majority by 1000 or 1200 Hands. But however a <hi>Poll</hi> was demanded and granted for all the said four Candidates.</p>
+            <p n="8">
+               <pb facs="tcp:49893:2"/> VIII. Then the <hi>Hall</hi> proceeded to the Election of Chamberlain, and besides Sir <hi>Thomas Player,</hi> on Mr. <hi>W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndal</hi> a Woollen Draper in <hi>Fleet street</hi> was put up, but Sir <hi>Thomas</hi> was (almost) unanimously Chosen, The latter not having above nine or ten Hands. After which Auditors of the Chamber and Bridge house Accounts and Bridgemasters were Chosen, As also <hi>Al<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Conners,</hi> of whom the three Survivers were again Chosen, but in the Room of <hi>William Robinson,</hi> lately Deceased, there were several Pretenders, But Mr. <hi>John Farthing</hi> an old Servant in the <hi>Excise Office,</hi> lately turned out of his place as a <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssenter,</hi> carried it by a Vast disparity of Hands.</p>
+            <p n="9">IX. After which there was an Address Presented, returning the Thanks of the Com<g ref="char:EOLhyphen"/>mon-Hall to Alderman <hi>Pilkington,</hi> and Mr. <hi>Shute,</hi> the two present Sheriffs, for their Faithful and Upright discharge of their Trust and Office in this time of Difficulty and Danger, As also to the Common Council and Committee for managing the Defence of the Charter against the late <hi>Quo Warramo,</hi> Which was Read very Audibly by Mr. Com<g ref="char:EOLhyphen"/>mon Serjeant, and chearfully assented to and acknowledged by the Common-Hall. And then the Sheriffs made their Report of the whole Proceedure to the Court of Aldermen.</p>
+            <p n="10">X. Between two and three a Clock the <hi>Poll</hi> began, Eight or nine Books and Writers being prepared in <hi>Guild-Hall Yard,</hi> and Persons appointed to Inspect them on either side. It was desired by some that a distinct Colume might be for such as were for <hi>Confirmation,</hi> but that being before Resolved in the <hi>Negative,</hi> and the only Dispute now not being for or against <hi>Confirmation,</hi> but which two of the four Gentlemen should be Chosen by the Common-Hall for Sheriffs, the same was refused as Impracticable and Impertinent; But all left at Liberty to <hi>Poll</hi> for which of the four Competitors they pleased. Yet some few Factious and Troublesome men only to create occasion for Cavil, demanded to be <hi>Polled</hi> for <hi>Confirmation</hi> (as they call'd it) yet refused to declare <hi>who</hi> they would Confirm, or Name any that they would <hi>Poll</hi> for, and yet Complained to the Court of Aldermen, and some of them (as particularly Mr. <hi>Masters</hi> in St. <hi>Pauls</hi> Church Yard) offered to make Oath that they were denyed or refused to be <hi>Polled.</hi>
+            </p>
+            <p>It was to be taken Notice of, That there were Fluttering up and down the <hi>Hall,</hi> a great many Sword-men and Hectoring Persons (no Citizens) who insolently Affronted People, As some of them did Mr. <hi>Recorder;</hi> and others, some of the Aldermen and Citizens; giving unreasonable and almost insufferable Provocations, especially in the Afternoon. On purpose (as tis reasonably believed) to cause some Disturbance. But the Moderation of the Citizens was such, as scorned to take Notice of these foolish Extravagants, further than modestly to reprove their want of respect to Authority, and their Incivility.</p>
+            <p n="11">XI. It appearing that the <hi>Suffrages</hi> were likely to fall upon <hi>Papillion</hi> and <hi>Dubois,</hi> several that were for <hi>North</hi> and <hi>Box</hi> applyed themselves to my Lord Mayor, suggesting as if they were denyed to <hi>Poll,</hi> and that many of their party were absent, and the like Complaints, which occasioned his Lordships coming to the <hi>Hall,</hi> (some People following very rudely with <hi>Huzza's</hi> and unusal Clamour.) His Honour sending for the Sheriffs into the <hi>Council Chamber,</hi> they Excused themselves for the present, being busy in the Work of the Day, but promised to wait on his Lordship, or soon as the <hi>Poll</hi> Concluded. His Lordship came to the <hi>Polling</hi> place, and seemed to forbid the further proceeding in the <hi>Poll,</hi> but the Sheriffs offered several Reasons why they ought to go on, being in the Legal discharge of their Office, and so proceeded.</p>
+            <p n="12">XII. About seven a Clock in the Evening the Mayor and some <hi>few</hi> Aldermen came to the Hustings (the Sheriffs being still <hi>Polling</hi> in the Yard) where the Common <hi>Cryer</hi> by Direction from his Lordship spake to the promiscuous Company in the the <hi>Hall,</hi> to this effect; <hi>All you that were Summoned to appear here this day, are required to depart, and to give your attendance on Tuesday at nine a Clock in the Morning.</hi> But omitting to mention the Oc<g ref="char:EOLhyphen"/>casion, some of the People—askt <hi>for what?</hi> But the generalty called a <hi>Poll,</hi> a <hi>Poll.</hi> However his Lordship being gone, the Sheriffs continued the <hi>Poll</hi> as before, intending for the ease of their <hi>Fellow Citizens</hi> to have dispatcht it that Night, but it growing neer nine a Clock at Night, and there being present some small number of Persons, who then unseasonably demanded to be <hi>Poll'd,</hi> The Sheriffs thought fit to Adjourn into the <hi>Hall</hi> for half an Hour. In which time there were Assembled in the Great <hi>Hall,</hi> Three or four Thousand People, Calling out <hi>a Hall! a Hall! a Hall!</hi> Until the Sheriffs came upon the Hustings, and then Mr. Sheriff <hi>Shute</hi> spake to this Effect. <hi>Gentlemen we have had a</hi> Poll <hi>to day, and we the Sheriffs, as we are the Kings Ministers, so we have done and will Act therein with all</hi> Fairness <hi>and</hi> Honesty, <hi>as becomes us. My Lord Mayor hath taken upon him to Adjourn this Court. But</hi> we <hi>do now tell you, That</hi> we <hi>do Adjourn this Court until Tuesday Morning nine a Clock, then to declare the</hi> Poll, <hi>or to</hi> Poll <hi>any such as have Right to</hi> Poll, <hi>and have not yet poll'd already.</hi>
+            </p>
+            <p>Then the Sheriffs went home attended with great Multitudes of Citizens, following them with Loud and Grateful Acclamations, of, <hi>God Bless the Protestant Sheriffs, God bless</hi> Papillion <hi>and</hi> Dubois, <hi>&amp;c.</hi> And so the Affair rests until <hi>Tuesday</hi> morning; At which time tis believed as well most of those who have already <hi>Poll'd,</hi> as such others as have Right and are yet to <hi>Poll,</hi> will appear; it so importantly Concerning all Citizens to stand by their Just Rights and Priviledges, and not to suffer the same to be Invaded or Infringed in any kind.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Langley Curtis, 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
